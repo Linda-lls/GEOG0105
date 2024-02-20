@@ -1,6 +1,7 @@
-# GEOG0105
-Here are the Python code scripts for develpoing the first large-scale walkability quantification model in South Africa using SegFormer and Google Street View Imagery.
+# GEOG0105 Research Project and Dissertation
+The Python Code scripts for experiments of my dissertation entitled "Leveraging Machine Learning and Street View Imagery to Study the association between social inequalities and visual walkability in the South Africa Context" is available in this repository. 
 
+Here are the Python code scripts for develpoing the first large-scale walkability quantification model in South Africa using SegFormer and Google Street View Imagery.
 
 1_sample_points_collection_update: Provide coding used for sample points collection.
 
